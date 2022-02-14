@@ -35,3 +35,4 @@ for n in range(numNum):
 random.shuffle(senhaL)
 print('-'*59)
 print(f'Senha gerada: {senhaS.join(senhaL)}')
+input()
